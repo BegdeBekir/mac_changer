@@ -11,3 +11,4 @@
 <hr>
 <h3>Why we use mac_changer</h3>
 <p>There can be many reasons for changing the MAC address, some of which are not legitimate reasons. For example, a hacker's attack on the local network by changing the MAC address will make it difficult to detect.There can be many reasons for changing the MAC address, some of which are not legitimate reasons. For example, a hacker's attack on the local network by changing the MAC address will make it difficult to detect.</p>
+<hr>
